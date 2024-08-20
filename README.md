@@ -1,1 +1,3 @@
-# benchmark-utils
+# benchmark utilities 
+
+scripts for processing benchmark data
